@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\clait\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\clait\\AppData\\Roaming\\NuGet\\NuGet.Config"

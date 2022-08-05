@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5QWZRwL7UuEWKrkrBDvmKf5EJ7pVGNmD0vO5mIuQEzAjAL5vBi7Zvr1TTG1LAj/zrzZSyD1OZKIGdAj4hVxePw==",
+  "dgSpecHash": "xbHlM2nsTBMfU6KsVTPsvM5OSBVfah7HCVFTP797jZvPH8I8igkdD1P2b9uzm+V5gue90F/KfWqK0ZaxNpXhsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-1\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clait\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\clait\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
