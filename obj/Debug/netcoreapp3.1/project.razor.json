@@ -14412,6 +14412,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\CadastrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
       "TargetPath": "Views\\Livro\\Edicao.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14424,16 @@
     {
       "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
       "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\ListaUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14459,6 +14474,11 @@
     {
       "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\clait\\OneDrive\\Documentos\\Curso SENAC\\Documentar-e-realizar-manutenção-de-aplicações-web\\atividade-2\\Biblioteca - netcore3.1\\Biblioteca\\Views\\Usuario\\Permissão.cshtml",
+      "TargetPath": "Views\\Usuario\\Permissão.cshtml",
       "FileKind": "mvc"
     },
     {

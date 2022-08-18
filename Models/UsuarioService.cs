@@ -14,6 +14,14 @@ namespace Biblioteca.Models
             }
         }
 
+        public Usuario Listar(int id)
+        {
+            using(BibliotecaContext bc = new BibliotecaContext())
+            {
+                return bc.Usuarios.Find(id);
+            }
+        }
+
         public void Inserir(Usuario usuario)
         {
             using(BibliotecaContext bc = new BibliotecaContext())
@@ -31,7 +39,14 @@ namespace Biblioteca.Models
 
                 usuarios.Nome = usuario.Nome;
                 usuarios.Login = usuario.Login;
-                usuarios.Senha = usuario.Senha;
+                if(usuarios.Senha != usuario.Senha)
+                {
+                    usuarios.Senha = Criptografia.TextoCriptografado(usuario.Senha);
+                }
+                else
+                {
+                    usuarios.Senha = usuario.Senha;
+                }
                 usuarios.Tipo = usuario.Tipo;
 
                 bc.SaveChanges();

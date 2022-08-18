@@ -104,3 +104,7 @@ C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutençã
 C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastrarUsuario.cshtml.g.cs
+C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuarios.cshtml.g.cs
+C:\Users\clait\OneDrive\Documentos\Curso SENAC\Documentar-e-realizar-manutenção-de-aplicações-web\atividade-2\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Permissão.cshtml.g.cs
