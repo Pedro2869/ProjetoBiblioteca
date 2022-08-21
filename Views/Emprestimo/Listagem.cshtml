@@ -32,12 +32,13 @@
                 <th>Data Devolução</th>
                 <th>Título do Livro</th>
                 <th>Autor</th>
+                <th>Status</th>
                 <th></th>
                 </tr>
             </thead>
             <tbody>
                 @foreach(Emprestimo e in Model)
-                {
+                {              
                     @if(e.DataDevolucao < DateTime.Now && e.Devolvido == false)
                     {
                 <tr class="table-danger">
@@ -60,6 +61,14 @@
                     <td>@e.DataDevolucao.ToString("dd/MM/yyyy")</td>
                     <td>@e.Livro.Titulo</td>
                     <td>@e.Livro.Autor</td>
+                    @if(e.Devolvido == true)
+                    {
+                        <td>Devolvido</td>
+                    }
+                    else
+                    {
+                        <td>Não devolvido</td>
+                    }
                     <td><a href="/Emprestimo/Edicao/@e.Id">Editar</a></td>
                 </tr>
                 }

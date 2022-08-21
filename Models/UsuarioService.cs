@@ -14,6 +14,7 @@ namespace Biblioteca.Models
             }
         }
 
+        // LISTAR PELA ID
         public Usuario Listar(int id)
         {
             using(BibliotecaContext bc = new BibliotecaContext())

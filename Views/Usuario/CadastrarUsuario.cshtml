@@ -1,12 +1,8 @@
 @model Usuario
 
-@{
-    ViewData["Title"] = "Cadastro de Usuarios";
-}
-
 <h1>Registre um usuário</h1>
 
-<form asp-action="RegistrarUsuarios" method="post">
+<form asp-action="CadastrarUsuario" method="post">
     <input type="text" asp-for="Nome" id="userNome" placeholder="Nome">
     <input type="text" asp-for="Login" id="userLogin" placeholder="Login">
     <input type="text" asp-for="Senha" id="userSenha" placeholder="Senha">

@@ -19,7 +19,7 @@ namespace Biblioteca.Controllers
         {
             user.Senha = Criptografia.TextoCriptografado(user.Senha);
             new UsuarioService().Inserir(user);
-            return View("ListaUsuarios");
+            return RedirectToAction("ListaUsuarios");
         }
 
         // ACTION LISTAR
@@ -34,11 +34,11 @@ namespace Biblioteca.Controllers
         // ACTION DE EDITAR
 
         // ACTION DE DADOS RECEBIDOS
-        public IActionResult EditarUsuario(int idUser)
+        public IActionResult EditarUsuario(int id)
         {
             Autenticacao.CheckLogin(this);
             Autenticacao.verificaSeUsuarioEAdmin(this);
-            Usuario u = new UsuarioService().Listar(idUser);
+            Usuario u = new UsuarioService().Listar(id);
             return View(u);
         }
 
@@ -48,17 +48,17 @@ namespace Biblioteca.Controllers
             Autenticacao.CheckLogin(this);
             Autenticacao.verificaSeUsuarioEAdmin(this);
             new UsuarioService().Editar(userEditado);
-            return View("ListaUsuarios");
+            return RedirectToAction("ListaUsuarios");
         }
 
         // ACTION DE EXCLUSÃO
 
-        public IActionResult ExcluirUsuario(int idUser)
+        public IActionResult ExcluirUsuario(int id)
         {
             Autenticacao.CheckLogin(this);
             Autenticacao.verificaSeUsuarioEAdmin(this);
-            new UsuarioService().Excluir(idUser);
-            return View("ListaUsuarios");
+            new UsuarioService().Excluir(id);
+            return RedirectToAction("ListaUsuarios");
         }
 
 
