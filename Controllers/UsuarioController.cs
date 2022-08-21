@@ -7,7 +7,7 @@ namespace Biblioteca.Controllers
     {
         // ACTION PARA REGISTRAR USUÁRIO
         // ACTION QUE RECEBA OS REGISTROS
-        public IActionResult RegisterUser()
+        public IActionResult CadastrarUsuario()
         {
             Autenticacao.CheckLogin(this);
             Autenticacao.verificaSeUsuarioEAdmin(this);
